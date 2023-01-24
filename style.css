@@ -1,0 +1,67 @@
+.title{
+    text-align: center;
+    margin: 1rem auto;
+    font-size: 2.4rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    word-spacing: 0.5rem;
+    color: rgb(151, 60, 60);
+}
+label{
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin-bottom: 0.3rem;
+    word-spacing: 0.3rem;
+    letter-spacing: 0.1rem;
+}
+input{
+    padding: 0.3rem;
+}
+p{
+    color: red;
+    font-weight: 600;
+    word-spacing: 0.1rem;
+}
+span i{
+    padding-right: 0.4rem;
+}
+.submitbtn{
+    font-size: 1.3rem;
+    font-weight: 600;
+    letter-spacing: 0.1rem;
+}
+.login-body{
+    height: 100vh;
+    display: flex;
+    align-items: center;  /* Vertical Center */
+    justify-content: enter;  /* Horizontal Center */
+    background-color: aquamarine;
+}
+.login-box{
+    position: relative;
+    background-color: aliceblue;
+    border-radius: 1rem;
+    text-align: center;
+    padding: 30px;
+
+}
+.login-box h1{
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+.loginbtn{
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.2rem;
+    background-color: #4070f4;
+    padding: auto 10px;
+    color: white;
+}
+
+.registerBody{
+    height: 100vh;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
